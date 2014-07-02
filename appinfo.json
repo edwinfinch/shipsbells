@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Edwin Finch",
+    "longName": "Ship's Bells",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Bell.png",
+                "menuIcon": true,
+                "name": "MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Ship's Bells",
+    "uuid": "424bd5bd-e107-427c-827a-54921f912d74",
+    "versionCode": 1,
+    "versionLabel": "1.0.2",
+    "watchapp": {
+        "watchface": true
+    }
+}
